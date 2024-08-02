@@ -2,7 +2,8 @@
 
 Hello!
 
-I'm Richard Nixon, I've been a web developer (backend) for 5 years! 
+I'm Richard Nixon, I've been a web developer (backend) for 5 years 
+and support and infrastructure engineer over +10 :) 
 
 Previous Jobs:
 It Specialist Manager at EIL Intercultural Learning (2022 - 2024)
