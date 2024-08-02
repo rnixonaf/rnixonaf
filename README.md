@@ -2,7 +2,7 @@
 
 Hello!
 
-I'm Richard Nixon, I've been a web developer (backend) as a hobby for 5 years! 
+I'm Richard Nixon, I've been a web developer (backend) for 5 years! 
 
 Previous Jobs:
 It Specialist Manager at EIL Intercultural Learning (2022 - 2024)
